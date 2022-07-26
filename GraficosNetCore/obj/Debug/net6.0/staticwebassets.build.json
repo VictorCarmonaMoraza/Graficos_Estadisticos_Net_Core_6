@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Try6FPYOYJHcbHNsd4iPcbFeSrArAXpECp/CdAZvpiA=",
+  "Hash": "G+bW0jiIoWSGbO4XoFRQeNzxKH1ZtAPRfA6CG6UU3H0=",
   "Source": "GraficosNetCore",
   "BasePath": "_content/GraficosNetCore",
   "Mode": "Default",
@@ -117,6 +117,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\generic.js"
+    },
+    {
+      "Identity": "C:\\Users\\Victo\\OneDrive\\Escritorio\\Proyectos 2022\\Graficos Estadisiticos C# en Asp Net Core\\GraficosNetCore\\GraficosNetCore\\wwwroot\\js\\graficoInicio.js",
+      "SourceId": "GraficosNetCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Victo\\OneDrive\\Escritorio\\Proyectos 2022\\Graficos Estadisiticos C# en Asp Net Core\\GraficosNetCore\\GraficosNetCore\\wwwroot\\",
+      "BasePath": "_content/GraficosNetCore",
+      "RelativePath": "js/graficoInicio.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\graficoInicio.js"
     },
     {
       "Identity": "C:\\Users\\Victo\\OneDrive\\Escritorio\\Proyectos 2022\\Graficos Estadisiticos C# en Asp Net Core\\GraficosNetCore\\GraficosNetCore\\wwwroot\\js\\site.js",

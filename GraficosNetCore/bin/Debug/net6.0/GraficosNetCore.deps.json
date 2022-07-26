@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v6.0": {
       "GraficosNetCore/1.0.0": {
         "dependencies": {
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.7"
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.7",
+          "System.Drawing.Common": "6.0.0"
         },
         "runtime": {
           "GraficosNetCore.dll": {}
